@@ -33,6 +33,6 @@ I’m a Computer Science and Engineering student with a keen interest in Artific
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+ ![snake gif](https://raw.githubusercontent.com/Rohak-Thakur/Rohak-Thakur/output/github-snake-dark.svg)
 </div>
 
