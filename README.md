@@ -65,7 +65,7 @@ I’m a Computer Science and Engineering student with a keen interest in Artific
 <!-- Snake Animation -->
 <div align="center">
 
-### Contribution Graph
+### 📈 Contribution Graph
  ![snake gif](https://raw.githubusercontent.com/Rohak-Thakur/Rohak-Thakur/output/github-snake-dark.svg)
 </div>
 
