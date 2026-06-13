@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Science and Engineering student with a keen interest in Artificial Intelligence, Data Analytics, and Full-Stack Web Development.<br><br>My academic journey is backed by hands-on experience with AI-driven projects such as a mental health chatbot using tools like LangChain, Hugging Face, and Mistral, and web-based systems using JSP, Servlets, Flask, and Streamlit.<br><br>I enjoy working on both hardware and software projects — from building digital thermometers using Arduino to deploying ML models for real-world predictions. I’m currently learning the MERN stack to expand my skills in modern web development.<br>
+I’m a Computer Science and Engineering student with a keen interest in Artificial Intelligence, Data Analytics, and Frontend Web Development.<br><br>My academic journey is backed by hands-on experience with AI-driven projects such as a mental health chatbot using tools like LangChain, Hugging Face, and Mistral, and web-based systems using JSP, Servlets, Flask, and Streamlit.<br><br>I enjoy working on both hardware and software projects — from building digital thermometers using Arduino to deploying ML models for real-world predictions. I’m currently learning the MERN stack to expand my skills in modern web development.<br>
 
 
 <div align = "center">
